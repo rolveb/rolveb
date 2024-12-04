@@ -1,5 +1,12 @@
-## Hi there 👋
-
+## About me👋
+Rolv Bredesen has a background in mathematical modelling and computational science and is an expert on wind, icing and risk assessments at Kjeller Vindteknikk – part of Norconsult. He has participated in the IEA Wind’s  (TCP) expert group on wind energy in cold climates (Task 19/54) since 2016, and has recently participated as one of two Norwegian contributors of the IEC technical committee nr 88 to create an international standard for wind turbines within the topic of Siting Risk Assessment. The standard IEC TS 61400-31:2023 was published recently in November 2023.                                
+Rolv Bredesen has a long experience especially with ice throw risk assessment and has contributed to National Norwegian Guidelines (2018, NVE) as well as the updated international guidelines IEA Wind TCP Task 19's recommendations (2nd edition 2022).                                                              
+                                                                                                                                                            
+The standard can be found following this [link](https://lnkd.in/d5QbcTdv)                                                                                   
+                                                                                                                                                            
+More information on IceRisk can be found [here](https://lnkd.in/dzMFqrqt)                                                                                   
+                                                                                                                                                            
+A previous presentation on IceRisk forecast system by the author can be found [here](https://windren.se/WW2016/2_2_3_Bredesen_IceRisk_forecast_system_for_o\perational_wind_farms.pdf)     
 <!--
 **rolveb/rolveb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
