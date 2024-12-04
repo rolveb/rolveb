@@ -6,7 +6,7 @@ The standard can be found following this [link](https://lnkd.in/d5QbcTdv)
                                                                                                                                                             
 More information on IceRisk can be found [here](https://lnkd.in/dzMFqrqt)                                                                                   
                                                                                                                                                             
-A previous presentation on IceRisk forecast system by the author can be found [here](https://windren.se/WW2016/2_2_3_Bredesen_IceRisk_forecast_system_for_o\perational_wind_farms.pdf)     
+A previous presentation on IceRisk forecast system by the author can be found [here](https://windren.se/WW2016/2_2_3_Bredesen_IceRisk_forecast_system_for_operational_wind_farms.pdf)     
 <!--
 **rolveb/rolveb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
